@@ -1,0 +1,1 @@
+Disegnare una rete con i seguenti componenti: ● Una zona di Internet (rappresentata da un cloud o un simbolo di Internet). ● Una zona DMZ con almeno un server web HTTP e un server di posta elettronica SMTP. ● Una rete interna con almeno un server o nas. ● Un firewall perimetrale posizionato tra le tre zone. ● Spiegare le scelte.
